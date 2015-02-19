@@ -1,4 +1,4 @@
-Notes for reposttory data1
+Notes for repository data1
 
 1. data1 is the repository for automatic data uploads from Jeff
 Rouder's Perception and Cogniton Lab at the University of Missouri.  
