@@ -1,3 +1,5 @@
+Column labels are:
+
 sub: subject number
 trial: trial number
 block: block number
