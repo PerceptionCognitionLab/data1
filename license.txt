@@ -2,7 +2,7 @@ License:
 
 Unless otherwise noted, my lab has NOT published data in this
 repository.  We reserve the right to do so before anyone else.  So,
-dont be a !@#$%#i and publish before we do.  Once we publish,
+dont be a !@#$%#i and publish these data before we do.  Once we publish,
 however, please use these data without any restiction.  Cite us though!
 
 Thanks,
