@@ -15,7 +15,7 @@ a. xxx.dat.yyy are raw data files
 b. xxx.ses.yyy are session files which provide information about
 participant and computer settings
  
-c. xxx.notes are column labels in the data files
+c. xxx.txt are column labels and other notes.
 
 d. xxx.all are concatinated data files
 
