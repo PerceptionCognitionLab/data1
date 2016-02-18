@@ -3,7 +3,7 @@ Notes for repository data1
 1. data1 is the repository for automatic data uploads from Jeff
 Rouder's Perception and Cogniton Lab at the University of Missouri.  
 
-2. Uploads started on 1/10/15 for select experiments with the intent
+2. Uploads started on 2015-01-10 for select experiments with the intent
 to make all experiments be uploaded
 
 3. Directories are used to identify experiment groups, and nested
@@ -17,7 +17,7 @@ participant and computer settings
  
 c. xxx.txt are column labels and other notes.
 
-d. xxx.all are concatinated data files
+d. xxx.all are concatenated data files
 
 5. Session files have the following column labels:
 a. Experiment ID, (# in our database)
@@ -35,8 +35,8 @@ l. Computer ID
 m. random seed
 
 6. We keep all demographics on participants in a database that also
-has identified informaiton and cannot be released.  We are happy to
+has identified information and cannot be released.  We are happy to
 provide demographics for select participants, by participant ID, on
 request.  
 
----Jeff Rouder, 2/18/15
+---Jeff Rouder, 2015-02-18
