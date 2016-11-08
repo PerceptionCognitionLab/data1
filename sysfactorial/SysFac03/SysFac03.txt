@@ -1,0 +1,4 @@
+Originally intended to be a version of the sysfactorial line of experiments
+that used the nested square stimuli as seen in Luck & Vogel (1997).  Scrapped
+after realizing that the nested square stimuli would most likely not meet the
+assumption of selective influence that is needed for SFT methods to work.

@@ -1,0 +1,12 @@
+sub: subject number
+fast: Too fast or not (0=fine, 1= too fast)
+trial: trial number
+block: block number
+trialblock: trial w/in a block
+ecc: eccentricity condition (1 easiest, 4 hardest)
+eccVal: eccentricity value (.2,.88,.95,1)
+theta: orientation degree of ellipse (in radians, w.r.t vertical, clockwise)
+resp: subjects response in radians
+rt: response time
+trialPts: points earned on trial
+totPts: sum of points earned

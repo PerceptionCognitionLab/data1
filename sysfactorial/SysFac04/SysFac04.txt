@@ -1,0 +1,3 @@
+Hue/Saturation experiment originally intended for the sysfactorial line of
+experiments.  Not run because of difficulties in manipulation of color
+characteristics.

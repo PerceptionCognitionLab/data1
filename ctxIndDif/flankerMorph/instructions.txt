@@ -1,0 +1,18 @@
+Welcome to our study on human perception.\n\nThank you for your participation!\n\n\nPress <SPACE> to continue.\n
+break
+In this task you will be presented with 3x3 grid of letters: \n\neither "A" or "H".\n\n\nPress <SPACE> to continue.\n
+break
+The center letter will be a morph between "A" and "H".\n\n\nPress <SPACE> to continue.\n
+break
+Your job is to indicate whether\n\nthe center letter is more "A"-like or more "H"-like.\n\n\nPress <SPACE> to continue.\n
+break
+If the center is more "A"-like \n\npress *A* (on the keyboard).\n\n\n\nIf the target letter is more "H"-like \n\npress *H* (on the keyboard).\n\n\nPress <SPACE> to continue.\n
+break
+Once a response has been recorded, the grid will disappear.\n\n\nPress <SPACE> to continue.\n
+break
+There will also be short breaks where you can\n\n relax before beginning the task again.\n\n\nPress <SPACE> to continue.\n
+break
+To recap:\n\nPress *A* for center letters that appear more "A"-like \n\nand press *H* for center letters that appear more "H"-like.\n\nFocus on the letter in the middle,\n\nnot the surrounding letters.\n\n\nPress <SPACE> to continue.\n
+break
+If you have any questions,\n\n please ask the instructor.\n\nIf you're ready to begin,\n\nthen please put your fingers on the "A" and "H" keys.\n\n\nAnd press <SPACE> to start the experiment.\n
+break

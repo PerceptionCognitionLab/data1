@@ -1,0 +1,178 @@
+%%% First attempt on the A/H experiment, programmed by Hope based on stroop1 by 
+%%% Julia
+
+try
+%%% Creating a place for the program to run/save to 
+  addpath("/Volumes/exp/data1/ctxIndDif/flankerMorph");
+  addpath("/Volumes/exp/ptbpcl2/init");
+  pwd = "/Volumes/exp/data1/ctxIndDif/flankerMorph";
+
+  %set experiment name
+  ExperimentName = "flanker";
+  
+  %%% EXPERIMENT INITIALIZATION
+    %%% Debug Variable
+    devel=1;
+    %%% chooses which type to run the version for debugging the program or the 
+    %%% actual experiment
+    if devel > 0
+      [ses,log] = debugStart(ExperimentName);
+      nBlocks = 2;
+      nTrialsPerCond = 1;
+    elseif devel==0
+      [ses,log] = expStart(ExperimentName);
+      nBlocks = 10;
+      nTrialsPerCond = 50;
+    endif
+
+%%% EXPERIMENT SETUP
+      %%% Program Variables
+      backCol = 255; % background color of the screens; 255=white
+      
+      %%%Experiment Variables
+      timelist=[.5,.5,.2,2,1]; % in blockFlankerTrial, times for each screen
+      minRT = .200; % minimum reaction time; check if too fast of a response
+      bCount = 0; % number of times they went too fast
+      maxBCount = 20; % max number of times to allow them to go too fast; aka not paying attention
+      dFrame = "NA";  % letters used in frame
+      dMorphPix= 500; % pixels of space between the morph
+      pix=[0,110,130,160,30,50,80,0,110,130,160,30,50,80]; % 17(H)=160, 14=130, 12=110, 9(Mid)=80, 6=50, 4=30, 1(A)=0
+      
+      FrameLet = 2; %number of letters
+      Morph = 7; %number of morphs (targets)
+      Trials = 1 : (FrameLet * Morph);
+      nTrials = FrameLet * Morph * nTrialsPerCond;
+      nTrialsPerBlock = nTrials / nBlocks;
+      trials = repmat(Trials, 1, nTrialsPerCond); %sets up for trials in a random order
+      trials = Shuffle(trials);
+	
+
+      %%%Reading in stimuli images
+      file = dir(fullfile(pwd,'/StimSet/', '*jpeg'));
+      NF = length(file);
+      images = cell(NF,1);
+      for k = 1 : NF
+        images{k} = imread(fullfile(pwd,'/StimSet/', file(k).name));
+      end
+      
+      %%%Fixation Cross
+      fixArm=fix(30); %size of arm
+      lineWidthPix = 4; %arm width
+      % Now we set the coordinates (these are all relative to zero we will let
+      % the drawing routine center the cross in the center of our monitor for us)
+      xCoords = [-fixArm fixArm 0 0];
+      yCoords = [0 0 -fixArm fixArm];
+      allCoords = [xCoords; yCoords];
+      
+      %%%Keys that can be used in experiment
+      leftkey = KbName('A');
+      rightkey = KbName('H');
+      RestrictKeysForKbCheck([KbName('SPACE'), KbName('ESCAPE'), leftkey, rightkey]);
+      HideCursor;
+
+      %%%Instructions
+      lines = instruction(log, "instructions.txt",backCol);
+
+%%%RUNNING EXPERIMENT
+      for b = 1 : nBlocks %each block
+        for j= 1 : nTrialsPerBlock %each trial
+          i = (b - 1) * nTrialsPerBlock + j;
+	  %%%Trial presentation 
+	  [resp, rt, tResp, respAns] = blockFlankerTrial(log,allCoords,lineWidthPix,backCol,images{trials(i)}, timelist, leftkey, rightkey);
+
+	  %%%Record of Stimulus type: 17(H)=160, 14=130, 12=110, 9(Mid)=80, 6=50, 4=30, 1(A) =0
+	  if(trials(i)==1|trials(i)==2|trials(i)==3|trials(i)==4|trials(i)==5|trials(i)==6|trials(i)==7)
+	    dFrame ='A'
+	  elseif (trials(i)==8)
+	    dFrame ='H'
+	  elseif (trials(i)==9)
+	    dFrame ='H'
+	  elseif (trials(i)==10)
+	    dFrame ='H'
+	  elseif (trials(i)==11)
+	    dFrame ='H'
+	  elseif (trials(i)==12)
+	    dFrame ='H'
+	  elseif (trials(i)==13)
+	    dFrame ='H'
+	  elseif (trials(i)==14)
+	    dFrame ='H'
+	  endif
+
+	  dMorphPix=pix(trials(i));
+
+          %%%Checking if subject was too fast
+          [bCount,mesg]=OutOfLine(log,rt,minRT,bCount,maxBCount);
+          tooFast = ['Too fast. Please pay attention.'];
+          
+          %%%Audio Feedback
+          feedOut = "ERROR";
+          
+          if !mesg 
+            audio(strtrim(feedOut),log.sound);
+          else %if too quick
+            Screen('FillRect',log.window, backCol); 
+            Screen('TextSize',log.window,30);
+            Screen('TextFont',log.window,'Monaco');
+            DrawFormattedText(log.window, tooFast, 'center','center', 0);
+            Screen('Flip', log.window);
+            WaitSecs(1);
+          endif
+
+          %%% DATA OUTPUT
+            % START TRIAL LINE
+            fprintf(log.fptr, '%3d %3d %2d %2d ', log.subNo, i, b, j);
+            % ADD STIMULUS PROPERTIES
+            fprintf(log.fptr, '%s ', file(trials(i)).name);
+	    fprintf(log.fptr, '%s %3d ', dFrame,dMorphPix);
+            % ADD SPECIFIC SUBJECT OUTPUT
+	    fprintf(log.fptr, '%d %s %f %d %d', resp, respAns, rt, mesg, bCount);
+	    % BREAK LINE FOR THE NEXT TRIAL
+            fprintf(log.fptr,'\n');
+            % FLUSH OUTPUT
+            fflush(log.fptr);
+
+        endfor
+
+        if(b < nBlocks) %screen that shows breaks between blocks
+          Screen('FillRect',log.window,backCol);  
+          Screen('TextSize',log.window,30); 
+          breakText=['End of block.\nTake a few moments break.\n','Press <SPACE> to continue.\n'];
+          DrawFormattedText(log.window,breakText,'center','center', 0);
+          t0=Screen('Flip',log.window);
+          WaitSecs(2);
+          KbWait;
+        endif
+      endfor
+
+    %End Screen
+    endText=['Phew! End of experiment.\n\n'];
+    finish=['Press <SPACE> to finish.\n'];
+    
+    Screen('FillRect',log.window, backCol);
+    Screen('TextSize',log.window,30);
+    Screen('TextFont',log.window,'Monaco');
+    
+    DrawFormattedText(log.window,endText,'center',log.yc-100,0);
+    Screen('TextSize',log.window,30);
+    DrawFormattedText(log.window,finish,'center',log.yc+100,0);
+    Screen('Flip',log.window);
+    WaitSecs(.5);
+    KbWait;
+
+
+  %%% EXPERIMENTAL FINALIZATION
+  %ends the debugging or experimental mode
+    if devel>0
+     debugStop(ses,log);
+    elseif devel==0
+     expStop(ses,log);
+    endif
+
+catch
+    % This "catch" section executes in case of an error in the "try" section
+    % above. Importantly, it closes the onscreen window if its open and
+    % shuts down realtime-scheduling of Matlab:
+    PsychPortAudio('Close');
+    Screen('CloseAll');
+end
