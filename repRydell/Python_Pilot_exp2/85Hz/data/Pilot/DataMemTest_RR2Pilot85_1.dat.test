@@ -1,0 +1,2 @@
+ParticipantNumber	Block	ValenceBlock	NumbercorrectIdent	chosenItems	correctList	MeasureOrder	computerName	timeStamp
+1	1	1	9	[u'Stink', u'Trash', u'Ugly', u'Hurt', u'Corpse', u'Death', u'War', u'Spider', u'Hell', u'Kill']	['correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'falseIdent']	1	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
