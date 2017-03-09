@@ -1,0 +1,2 @@
+ParticipantNumber	Block	ValenceBlock	NumbercorrectIdent	chosenItems	correctList	MeasureOrder	computerName	timeStamp
+12	1	2	6	[u'Sunshine', u'Rainbow', u'Puppy', u'Smile', u'Happy', u'Party', u'Friend', u'Cash', u'Gift', u'Nature']	['falseIdent', 'falseIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'falseIdent', 'correctIdent', 'falseIdent']	1	MacMini4.local	2017-03-08_15.52.46.447796
