@@ -1,0 +1,101 @@
+ParticipantNumber	prime	BobImage	bobName	behavior	Valence	responseNumber	correctBehav	TrialRT	Block	ValenceBlock	Valence	computerName	timeStamp	
+14	Flower	white5.bmp	Bob	planted tomatoes and cucumbers in a small garden behind his house	pos	u	Correct	10.778072	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	spends a great deal of his time voluntarily tutoring disadvantaged students in areas of mathematics and English	pos	u	Correct	11.935432	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	helped his friend fix up his house so his friend could afford a better house for his family	pos	u	Correct	16.974489	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	witnessed a car accident, but didn’t report it	neg	u	False	5.523679	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	kicked his dog for eating some cheese left near the edge of the table	neg	c	Correct	4.381412	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	shot a deer outside of hunting season	neg	c	Correct	2.981217	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	went to the hospital to visit his neighbor	pos	c	False	2.666657	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	administered first aid to a hit-and-run victim while waiting for an ambulance to arrive	pos	u	Correct	7.366552	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	volunteers one day a week to work for the child care center	pos	c	False	11.399059	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	offered to help an elderly lady put up storm windows	pos	c	False	5.955033	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	taught a neighbor child how to ride a bike	pos	u	Correct	1.712280	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	got drunk and insulted everybody at a cocktail party	neg	c	Correct	3.325850	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	helped his wife plant a large vegetable garden in the backyard	pos	c	False	2.149880	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	rushed to the aid of someone who fell off their bicycle	pos	c	False	6.623446	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	shot a song bird with his .22-caliber rifle	neg	u	False	2.109472	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	yelled at a waitress for being too slow	neg	c	Correct	0.745934	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	offered to share an umbrella with a stranger during a downpour	pos	c	False	2.737681	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	threatened some people with a gun for trespassing on his land	neg	u	False	2.142352	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	ran over a child's bike with his car	neg	c	Correct	0.567553	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	derided his girlfriend at a party	neg	c	Correct	2.703119	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	smashed windows in a public building during a demonstration to protest construction of a home for the aged	neg	c	Correct	3.135912	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	helped a friend move into an apartment	pos	c	False	0.655618	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	belittles the minority individuals he knows	neg	u	False	1.153293	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	helped a friend review for a test	pos	c	False	1.231765	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	gives the best gifts on Christmas	pos	c	False	2.236034	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	told a young child who was playing in the dirt that he was stupid and “too young to know any better”	neg	u	False	0.315661	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	absentmindedly ran through a red light at an intersection and smashed into the side of another car	neg	u	False	0.362928	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	avoided other people in order not to give his cold to them	pos	c	False	0.298729	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	robbed a 7-11 store	neg	c	Correct	0.281463	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	buys all of his friends a drink at the bar	pos	c	False	3.579618	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	sold a pick-up with a cracked engine to an unsuspecting couple for $400	neg	u	False	2.248649	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	spent some of his salary on groceries for a disadvantaged family	pos	c	False	1.423996	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	stole an expensive pair of running shoes from a gym locker	neg	u	False	5.660350	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	played his transistor radio full blast late at night in a campground	neg	u	False	0.516110	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	butted into the front of a long line at a movie theater	neg	c	Correct	0.474963	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	had a surprise party for his father's birthday	pos	c	False	0.061044	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	flew from Dayton to Los Angeles to visit a friend who was blue	pos	u	Correct	0.471649	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	helped a young child learn the alphabet	pos	u	Correct	0.237452	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	lent money to a friend in financial straits	pos	u	Correct	0.347145	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	didn’t show up as a material witness for a drug case that involved a friend	neg	u	False	0.290960	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	gives flowers to his mother	pos	c	False	0.429176	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	helped friends move into a new house	pos	u	Correct	0.414582	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	helped a friend learn how to swim	pos	u	Correct	0.311037	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	laughed when a child fell out of a tree	neg	u	False	0.481956	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	took baby birds that he found in a nest that had fallen from a tree and nursed them to adulthood	pos	c	False	0.332514	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	stole a book from the college book store	neg	u	False	0.427811	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	helped a wheelchair patient up a ramp	pos	c	False	0.072925	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	helped a foreign student locate a place to live	pos	c	False	0.091504	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	saves cans and bottles for recycling	pos	u	Correct	0.062129	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	puts down anyone in a conversation who disagrees with him	neg	c	Correct	5.420407	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	repaired a child's bicycle over the weekend	pos	c	False	1.603837	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	parked his car in a space that was marked for a disabled person	neg	u	False	0.907089	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	helped put a new roof on his neighbor’s house	pos	c	False	0.349186	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	ignored a hit-and-run accident in which a person was thrown from a car	neg	u	False	1.957324	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	payed a man to follow his wife around	neg	c	Correct	0.478938	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	fought against discriminatory law that made renting difficult for minorities	pos	c	False	0.661285	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	asked for spare change from a couple even though he had money	neg	u	False	0.794942	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	walked out of a restaurant without paying the bill	neg	c	Correct	0.320520	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	called in sick for work when he was well	neg	c	Correct	1.763771	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	scared some small children who were riding their bikes by threatening to run over them	neg	c	Correct	1.414021	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	evicted renters who were one month late in paying their rent	neg	c	Correct	1.066034	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	often spends time at an old folks home helping out	pos	c	False	0.423365	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	spent two years working in the slums of Chicago at a strip club	neg	u	False	3.584466	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	cheated during a poker game	neg	c	Correct	1.977103	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	went on a low fat diet and lost 20 pounds	pos	c	False	1.307273	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	donated a pint of blood to the Red Cross	pos	u	Correct	0.460834	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	helped his wife do the dishes after a large dinner party	pos	u	Correct	2.042850	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	failed to report to the police a neighbor beating his wife	neg	u	False	6.094781	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	yelled at his wife viciously after an argument about family income	neg	c	Correct	4.115031	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	stopped to assist a motorist whose car had stalled during a snow storm	pos	c	False	4.498017	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	read a section from Alice in Wonderland to his children before they went to bed	pos	c	False	3.008378	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	snatched a purse that an elderly woman set down on the bus	neg	u	False	6.750016	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	helped his father take care of his younger sisters and brothers while his mother was in the hospital	pos	c	False	6.774997	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	brought marijuana across the state line to sell to middle school students	neg	u	False	3.600367	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	called the SPCA on coming across a hurt animal	pos	c	False	0.337249	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	broke his friend's guitar because he was angry	neg	c	Correct	5.376868	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	left a burner on when leaving his house	neg	c	Correct	5.763071	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	told a lie about his friend	neg	c	Correct	1.512878	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	had someone else write a term paper for him	neg	u	False	2.742479	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Happy	white5.bmp	Bob	had someone else take a math final for him	neg	c	Correct	2.347197	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	played his record player loudly late at night	neg	c	Correct	4.348564	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	yelled at an eight-year-old boy for riding his bike on the sidewalk	neg	c	Correct	16.312742	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	ignored someone’s cries for help on the ski slope by skiing by too fast to stop	neg	c	Correct	2.273342	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	drove to Colorado to visit his parents	pos	c	False	1.093147	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Flower	white5.bmp	Bob	works 40 hours a week in an effort to see himself through school	pos	u	Correct	2.302976	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Smile	white5.bmp	Bob	stopped off on his way home from work to buy a loaf of bread for dinner	pos	c	False	1.635925	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	turned in a work assignment on time	pos	u	Correct	2.191461	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	ran into a parked car while driving under the influence of liquor	neg	u	False	1.590343	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	spent his day off helping his mother around the house	pos	u	Correct	2.997311	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	writes his parents at least once every two weeks	pos	u	Correct	5.167171	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Friend	white5.bmp	Bob	gave his friend a bad time by always asking distracting and irrelevant questions	neg	u	False	2.285909	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Gift	white5.bmp	Bob	convinced his boss to fire an employee for arriving late for work	neg	u	False	3.426300	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	hit a dog in the street and drove away without stopping to notify the owner	neg	c	Correct	17.400659	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kitten	white5.bmp	Bob	found an expensive briefcase on the street and placed an ad in the newspaper to locate its owner	pos	c	False	0.902201	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	bought a friend a potted plant on Valentine’s Day	pos	u	Correct	0.448063	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Party	white5.bmp	Bob	broke in a locker and stole $400 worth of ski equipment	neg	u	False	0.933534	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Pretty	white5.bmp	Bob	helped a friend repaint his apartment	pos	c	False	0.056003	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	sheltered a family who had lost their home in a fire	pos	c	False	1.858165	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
+14	Puppy	white5.bmp	Bob	refused to help his child fix his bike	neg	u	False	1.810429	1	2	neg	MacMini1.local	2017-03-09_19.27.55.666783
+14	Kiss	white5.bmp	Bob	told the proprietor of a small store that she had given him too much change	pos	c	False	5.085806	1	2	pos	MacMini1.local	2017-03-09_19.27.55.666783
