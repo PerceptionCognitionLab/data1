@@ -1,0 +1,22 @@
+Column Labels (from JET)
+
+1. Participant Number
+2. Trial Number
+3. Block Number
+4. Trial Within Block
+5. Difference in size between screwheads (1 <- none, 2 <- small, 3 <- large)
+6. Difference in angle between screwheads (1 <- none, 2 <- small, 3 <- large)
+7. Change Type (in two text characters: N <- no difference, L <- small difference, H <- large difference; described as XY where X is the change type for the size [column 5] and Y is the change type for the angle [column 6])
+8. Did both features differ (1 <- Yes, 0 <- No)
+9. Radius (in pixels) of screwhead on the left
+10. Angle (clockwise from vertical) of screwhead on the left
+11. Radius (in pixels) of screwhead on the right
+12. Angle (clockwise from vertical) of screwhead on the right
+13. Participant response (1 <- Both features different, 0 <- At least one feature the same)
+14. Accuracy (1 <- Correct response, 0 <- Incorrect response)
+15. Reaction Time
+16. Bad Trial Indicator (1 <- Participant responded too quickly [i.e. less than 150 ms], 0 <- Participant did no respond too quickly)
+17. Bad Trial Counter (total number of bad trials so far)
+18 - 23. Timestamps for trial start, fixation onset, stimulus onset, blank onset, probe onset, and participant response, respectively (because this was a purely perceptual task, fixation onset, stimulus onset, and blank onset are identical; these three variables are included because the task was originally devised to run both perceptual and memory versions of the task)
+24. Task Type (0 <- Perceptual, 1 <- Memory; All should be 0)
+25. Feedback Type (C <- Correct Answer feedback, E <- Incorrect Answer feedback, N <- No Feedback [because trial was bad; see column 16])
