@@ -1,0 +1,101 @@
+ParticipantNumber	prime	BobImage	bobName	behavior	Valence	responseNumber	correctBehav	TrialRT	Block	ValenceBlock	Valence	computerName	timeStamp	
+15	Spider	white2.bmp	Bob	helped friends move into a new house	pos	c	Correct	4.657655	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	lent a friend his new sleeping bag and tent to go camping	pos	c	Correct	2.411007	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	had his driver’s license suspended for drunken driving	neg	u	Correct	14.222396	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	rode his bike to work every day to cut down on pollution and gas consumption	pos	c	Correct	2.983896	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	offered to share an umbrella with a stranger during a downpour	pos	c	Correct	2.593757	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	planted tomatoes and cucumbers in a small garden behind his house	pos	c	Correct	2.447746	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	borrowed some records from an acquaintance and never returned them	neg	u	Correct	5.439443	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	makes fun of lesbians on the street	neg	u	Correct	3.731078	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	gave his seat on the bus to an older person	pos	c	Correct	3.634553	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	fixed a squeaking rocking chair for his friend in the country	pos	c	Correct	3.316502	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	ignored someone’s cries for help on the ski slope by skiing by too fast to stop	neg	u	Correct	8.184674	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	saves cans and bottles for recycling	pos	c	Correct	2.351784	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	yelled at an eight-year-old boy for riding his bike on the sidewalk	neg	u	Correct	4.317640	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	deliberately smoked even though he was in the “no smoking” section of the theater	neg	u	Correct	3.280533	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	built a bookcase for his new apartment	pos	c	Correct	2.911506	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	tricked a housewife into paying money for a subscription to a magazine that did not exist	neg	u	Correct	6.636191	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	insulted a man who asked for directions to the nearest post office	neg	u	Correct	5.586822	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	refused to sign a petition to improve playground facilities for school children	neg	u	Correct	2.937719	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	helped a friend move into an apartment	pos	c	Correct	1.793850	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	overcharged customers who bought gas at a filling station	neg	u	Correct	3.553347	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	yelled at his wife viciously after an argument about family income	neg	u	Correct	3.261441	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	became a volunteer basketball coach for a children’s home	pos	c	Correct	2.140136	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	regularly reads to a blind friend	pos	c	Correct	3.477402	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	turned in someone else’s class project under his own name	neg	u	Correct	2.987932	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	absentmindedly ran through a red light at an intersection and smashed into the side of another car	neg	u	Correct	4.498147	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	often spends time at an old folks home helping out	pos	c	Correct	3.443941	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	took baby birds that he found in a nest that had fallen from a tree and nursed them to adulthood	pos	u	False	10.014599	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	always says good morning with a big grin on his face	pos	c	Correct	2.612678	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	spent two years working in the slums of Chicago at a strip club	neg	u	Correct	3.295230	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	went on a low fat diet and lost 20 pounds	pos	c	Correct	2.482561	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	yelled at his grandma when she wouldn't lend him money	neg	u	Correct	2.794336	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	evicted renters who were one month late in paying their rent	neg	u	Correct	2.760363	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	stopped to assist a motorist whose car had stalled during a snow storm	pos	c	Correct	3.625784	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	bought an old guitar and fixed it up for his cousin	pos	c	Correct	2.963383	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	walked out of a restaurant without paying the bill	neg	u	Correct	2.184477	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	taunted a stranded motorist during a rainstorm	neg	u	Correct	3.246685	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	avoided other people in order not to give his cold to them	pos	c	Correct	3.497299	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	spent two years as a Vista volunteer to work in the slums of Chicago as a medical aide	pos	c	Correct	5.332565	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	kicked his dog for eating some cheese left near the edge of the table	neg	u	Correct	4.502429	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	puts down anyone in a conversation who disagrees with him	neg	u	Correct	3.692691	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	spends a great deal of his time voluntarily tutoring disadvantaged students in areas of mathematics and English	pos	c	Correct	7.372240	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	donated 200 dollars to the local high school	pos	c	Correct	1.212203	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	helped his father take care of his younger sisters and brothers while his mother was in the hospital	pos	c	Correct	5.660725	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	works 40 hours a week in an effort to see himself through school	pos	c	Correct	10.933148	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	writes his parents at least once every two weeks	pos	c	Correct	9.532748	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	flew from Dayton to Los Angeles to visit a friend who was blue	pos	c	Correct	2.505555	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	adopted small children and raised them as if they were his own	pos	c	Correct	2.614152	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	bought items at a discount store and returned them for a refund at a different store with higher prices	neg	u	Correct	9.461343	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	spent his day off helping his mother around the house	pos	c	Correct	3.828731	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	ran into a parked car while driving under the influence of liquor	neg	u	Correct	9.374575	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	helps his neighbors with yardwork	pos	c	Correct	4.916454	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	used food coupons that were earmarked for someone else	neg	u	Correct	2.694337	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	stopped off on his way home from work to buy a loaf of bread for dinner	pos	c	Correct	6.902724	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	parked his car in a space that was marked for a disabled person	neg	u	Correct	2.702239	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	helped a young child learn the alphabet	pos	c	Correct	4.830179	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	siphoned gas from a car parked on the street	neg	u	Correct	1.962577	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	got drunk and insulted everybody at a cocktail party	neg	u	Correct	1.864876	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	helped old people clean up their yards and paint their houses for free	pos	c	Correct	3.329506	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	set off a fire alarm as a practical joke	neg	u	Correct	6.801287	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	derided his girlfriend at a party	neg	u	Correct	6.886811	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	shot a song bird with his .22-caliber rifle	neg	u	Correct	3.153871	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	got drunk and pushed a seven-year-old girl	neg	u	Correct	2.066436	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	bought a friend a potted plant on Valentine’s Day	pos	c	Correct	3.014327	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	helped a foreign student locate a place to live	pos	c	Correct	4.716421	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	dented another car in a parking lot and refused to leave his name	neg	u	Correct	4.363998	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	slapped his child for spilling a glass of milk	neg	u	Correct	4.247483	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	knocked a grocery bag from a woman’s arms as he ran down the street	neg	u	Correct	3.069073	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	stole merchandise from his work	neg	u	Correct	2.072194	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	hit a dog in the street and drove away without stopping to notify the owner	neg	u	Correct	3.920564	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	butted into the front of a long line at a movie theater	neg	u	Correct	3.339563	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	spent several hours a week counseling delinquents	pos	c	Correct	8.423836	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	keeps things down when children are sleeping	pos	c	Correct	5.011850	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	threatened some people with a gun for trespassing on his land	neg	u	Correct	4.535449	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	refused to help his child fix his bike	neg	u	Correct	2.474203	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	failed to report to the police a neighbor beating his wife	neg	u	Correct	4.138137	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	spent some of his salary on groceries for a disadvantaged family	pos	c	Correct	1.945601	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	helped some neighboring campers set up their tent	pos	c	Correct	1.267504	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	wrote letters to his congressperson supporting equal rights for all	pos	c	Correct	2.148660	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hell	white2.bmp	Bob	witnessed a car accident, but didn’t report it	neg	u	Correct	1.758377	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	helped a friend repaint his apartment	pos	c	Correct	2.272329	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	had someone else take a math final for him	neg	u	Correct	2.484533	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	became very angry and threatened two children who were collecting insects near his home	neg	u	Correct	3.292794	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	went to the hospital to visit his neighbor	pos	c	Correct	1.935814	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	repaired a child's bicycle over the weekend	pos	c	Correct	4.757247	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	gave $20 to the United Appeal	pos	c	Correct	2.364208	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	stood on a street corner and insulted the people who walked by	neg	u	Correct	3.754128	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	rushed to the aid of someone who fell off their bicycle	pos	c	Correct	3.778036	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Stink	white2.bmp	Bob	reported to the ski patrol that a friend hadn’t returned on time from a cross-country ski tour	pos	c	Correct	7.602937	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	War	white2.bmp	Bob	ran over a dog while speeding through a residental neighborhood	neg	u	Correct	6.235747	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	convinced his boss to fire an employee for arriving late for work	neg	u	Correct	7.234794	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Ugly	white2.bmp	Bob	snatched a purse that an elderly woman set down on the bus	neg	u	Correct	3.976726	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	stole an expensive pair of running shoes from a gym locker	neg	u	Correct	3.781056	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	found a good watch in a park and pawned it	neg	u	Correct	3.013623	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Pain	white2.bmp	Bob	gave a hitchhiker a ride to a shelter	pos	c	Correct	1.859145	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	shut a neighbors' door when they accidentally left it open	pos	c	Correct	2.751527	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Death	white2.bmp	Bob	smashed windows in a public building during a demonstration to protest construction of a home for the aged	neg	u	Correct	7.361163	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Spider	white2.bmp	Bob	was arrested for selling heroin to a teenager	neg	u	Correct	3.012947	1	1	neg	MacMini4.local	2017-03-17_14.18.53.925421
+15	Hurt	white2.bmp	Bob	buys all of his friends a drink at the bar	pos	c	Correct	2.722871	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Corpse	white2.bmp	Bob	helped a lost child find his way home	pos	c	Correct	3.339430	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
+15	Trash	white2.bmp	Bob	wrote letters and sent reading materials to convicts at the Oregon Penitentiary	pos	c	Correct	6.403825	1	1	pos	MacMini4.local	2017-03-17_14.18.53.925421
