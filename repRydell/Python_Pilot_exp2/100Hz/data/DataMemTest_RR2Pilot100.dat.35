@@ -1,0 +1,2 @@
+ParticipantNumber	Block	ValenceBlock	NumbercorrectIdent	chosenItems	correctList	MeasureOrder	computerName	timeStamp
+35	1	1	5	[u'Ugly', u'Hell', u'Death', u'Hurt', u'Horror', u'Pain', u'Drunk', u'Crime', u'Loss', u'Fear']	['correctIdent', 'correctIdent', 'correctIdent', 'correctIdent', 'falseIdent', 'correctIdent', 'falseIdent', 'falseIdent', 'falseIdent', 'falseIdent']	1	MacMini1.local	2017-04-07_15.20.02.978421
