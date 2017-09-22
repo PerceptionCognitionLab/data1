@@ -1,0 +1,101 @@
+ParticipantNumber	prime	BobImage	bobName	behavior	Valence	responseNumber	correctBehav	TrialRT	Block	ValenceBlock	Valence	computerName	timeStamp	
+1	Hell	bob1.bmp	Bob	got drunk and pushed a seven-year-old girl	neg	u	Correct	1.774288	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	found an expensive briefcase on the street and placed an ad in the newspaper to locate its owner	pos	u	False	5.415257	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	hit a dog in the street and drove away without stopping to notify the owner	neg	c	False	7.291196	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	spent several hours a week counseling delinquents	pos	c	Correct	3.310518	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	dented another car in a parking lot and refused to leave his name	neg	u	Correct	7.901474	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	often spends time at an old folks home helping out	pos	c	Correct	6.706526	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	refused to lend a friend a book he needed for a paper	neg	u	Correct	5.818197	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	had someone else write a term paper for him	neg	u	Correct	3.929826	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	gives flowers to his mother	pos	c	Correct	2.414126	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	gives the best gifts on Christmas	pos	c	Correct	5.786928	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	helped his father take care of his younger sisters and brothers while his mother was in the hospital	pos	c	Correct	4.214828	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	gave his seat on the bus to an older person	pos	c	Correct	2.106855	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	donates his time at the soup kitchen	pos	c	Correct	2.379685	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	tries to give someone a ride whenever he is driving a long distance	pos	c	Correct	4.168533	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	is a reading specialist who volunteered to teach reading in a free school	pos	c	Correct	2.980436	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	bought plane tickets for his parents on their 25th anniversary for a trip to Hawaii	pos	c	Correct	6.655443	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	yelled at an eight-year-old boy for riding his bike on the sidewalk	neg	u	Correct	74.600629	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	sheltered a family who had lost their home in a fire	pos	c	Correct	3.189170	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	does not forget to feed the birds every morning	pos	c	Correct	3.011521	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	offered to help an elderly lady put up storm windows	pos	c	Correct	2.552263	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	ignored a hit-and-run accident in which a person was thrown from a car	neg	u	Correct	3.702806	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	asked for spare change from a couple even though he had money	neg	u	Correct	5.755271	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	helped put a new roof on his neighbor’s house	pos	c	Correct	2.422909	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	gives directions to a driver who is lost	pos	c	Correct	4.527689	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	called in sick for work when he was well	neg	u	Correct	2.531909	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	scared some small children who were riding their bikes by threatening to run over them	neg	c	False	21.287470	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	stood on a street corner and insulted the people who walked by	neg	u	Correct	2.536305	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	took care of the neighbors’ pets while they were gone	pos	c	Correct	2.265129	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	puts down anyone in a conversation who disagrees with him	neg	u	Correct	3.487953	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	turned in someone else’s class project under his own name	neg	u	Correct	4.128533	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	stole a book from the college book store	neg	u	Correct	8.163038	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	walked out of a restaurant without paying the bill	neg	u	Correct	5.592110	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	refused to sign a petition to improve playground facilities for school children	neg	u	Correct	20.340261	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	kicked his dog for eating some cheese left near the edge of the table	neg	u	Correct	1.990035	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	helped his friend fix up his house so his friend could afford a better house for his family	pos	c	Correct	2.002673	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	donated 200 dollars to the local high school	pos	c	Correct	2.411468	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	parked his car in a space that was marked for a disabled person	neg	u	Correct	2.450318	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	helped a food bank deliver turkeys to families in need on Thanksgiving	pos	c	Correct	3.228753	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	spends a great deal of his time voluntarily tutoring disadvantaged students in areas of mathematics and English	pos	c	Correct	2.779389	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	belittles the minority individuals he knows	neg	u	Correct	2.493958	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	insisted that he had tickets for a seat at a basketball game, knowing that the seat was really not his	neg	u	Correct	4.838814	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	threw a chair through a window at a beer party	neg	u	Correct	7.652934	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	bought items at a discount store and returned them for a refund at a different store with higher prices	neg	u	Correct	5.096057	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	volunteers one day a week to work for the child care center	pos	c	Correct	3.361905	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	always says good morning with a big grin on his face	pos	c	Correct	4.252645	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	helped a friend move into an apartment	pos	c	Correct	2.548538	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	stole merchandise from his work	neg	c	False	9.175626	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	buys all of his friends a drink at the bar	pos	c	Correct	3.472237	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	helped a wheelchair patient up a ramp	pos	c	Correct	2.710641	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	spent two years working in the slums of Chicago at a strip club	neg	c	False	2.745312	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	sent flowers to his mother on Mother’s Day	pos	c	Correct	1.685810	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	ignored someone’s cries for help on the ski slope by skiing by too fast to stop	neg	u	Correct	7.057156	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	borrowed some records from an acquaintance and never returned them	neg	u	Correct	3.814444	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	bought groceries for an elderly lady next door who was ill	pos	c	Correct	13.715411	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	ran into a parked car while driving under the influence of liquor	neg	u	Correct	2.770513	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	bought a neighborhood child a balloon at the fair	pos	c	Correct	2.345189	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	let an old couple ride free on the bus he was driving because they didn’t have enough money for two fares	pos	c	Correct	7.081943	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	helped his wife plant a large vegetable garden in the backyard	pos	c	Correct	3.515684	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	stole an expensive pair of running shoes from a gym locker	neg	u	Correct	1.579921	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	flew from Dayton to Los Angeles to visit a friend who was blue	pos	c	Correct	3.464914	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	used food coupons that were earmarked for someone else	neg	u	Correct	4.151248	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	let small children play in his orchard because there was no park nearby	pos	c	Correct	2.563648	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	convinced his boss to fire an employee for arriving late for work	neg	u	Correct	6.200277	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	played his transistor radio full blast late at night in a campground	neg	u	Correct	5.336025	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	wrote letters and sent reading materials to convicts at the Oregon Penitentiary	pos	c	Correct	6.737903	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	cut into the front of a gas line	neg	u	Correct	2.985476	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	bought a friend a potted plant on Valentine’s Day	pos	c	Correct	3.632075	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	threatened some people with a gun for trespassing on his land	neg	u	Correct	2.308551	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	makes fun of lesbians on the street	neg	u	Correct	2.841133	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	regularly reads to a blind friend	pos	c	Correct	2.297669	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	was apprehended when trying to steal magazines from a corner grocery store	neg	u	Correct	2.998472	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	helped some neighboring campers set up their tent	pos	c	Correct	7.567499	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	cheated on a take-home exam from the university	neg	u	Correct	2.332607	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	did not show up for a prearranged tennis game	neg	u	Correct	2.757179	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	loudly made racist statements to his friends while in a tavern	neg	u	Correct	2.029579	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	operated under a false company name and had people pay in advance for a job he never planned to do	neg	u	Correct	3.248544	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Trash	bob1.bmp	Bob	avoided other people in order not to give his cold to them	pos	c	Correct	17.699972	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	told a young child who was playing in the dirt that he was stupid and “too young to know any better”	neg	u	Correct	3.692094	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	helped a neighbor child draw a picture	pos	c	Correct	1.742373	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	lent a friend his new sleeping bag and tent to go camping	pos	c	Correct	2.345179	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	was arrested on the charge of passing over $500 in bad checks	neg	u	Correct	4.812321	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	spent two years as a Vista volunteer to work in the slums of Chicago as a medical aide	pos	c	Correct	4.616006	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	helped a friend repaint his apartment	pos	c	Correct	2.064237	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	spent his day off helping his mother around the house	pos	c	Correct	3.148967	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	taught a neighbor child how to ride a bike	pos	c	Correct	1.655629	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	refused to stop smoking even though several people in a crowded bus asked him to do so	neg	u	Correct	2.466361	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Stink	bob1.bmp	Bob	works 40 hours a week in an effort to see himself through school	pos	c	Correct	2.992929	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	fixed a squeaking rocking chair for his friend in the country	pos	c	Correct	2.059534	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Pain	bob1.bmp	Bob	evicted renters who were one month late in paying their rent	neg	u	Correct	2.738460	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	knocked a grocery bag from a woman’s arms as he ran down the street	neg	u	Correct	2.647037	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	turned in a work assignment on time	pos	c	Correct	8.501791	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	War	bob1.bmp	Bob	defaced a large rock with spray paint in a public park	neg	u	Correct	3.782623	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Ugly	bob1.bmp	Bob	helped a friend learn how to swim	pos	c	Correct	11.905709	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	insulted a man who asked for directions to the nearest post office	neg	u	Correct	4.377224	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	left his campfire burning at night, causing a small forest fire	neg	u	Correct	3.543771	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hurt	bob1.bmp	Bob	read a section from Alice in Wonderland to his children before they went to bed	pos	c	Correct	5.986123	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Spider	bob1.bmp	Bob	reported to the ski patrol that a friend hadn’t returned on time from a cross-country ski tour	pos	c	Correct	3.537830	1	1	pos	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Hell	bob1.bmp	Bob	sells vacuum cleaners door-to-door for three times the department store price	neg	u	Correct	3.786422	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Death	bob1.bmp	Bob	was detained for assaulting his wife	neg	u	Correct	4.648377	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
+1	Corpse	bob1.bmp	Bob	refused to help his child fix his bike	neg	u	Correct	12.945337	1	1	neg	mu-038134.dhcp.missouri.edu	2016-11-14_13.12.40.594068
