@@ -1,0 +1,3 @@
+ID, item, item_type, test_type, study_pos, ON_resp, ON_RT, RK_resp, RK_RT 
+0,CHUR,nonword,old,50,old,3.80333614349,R,3.18016195297
+0,SPIZ,nonword,new,NA,old,3.52321100235,R,2.09229207039
