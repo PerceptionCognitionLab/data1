@@ -1,0 +1,28 @@
+This is the fourth version of the flanker experiment, used in Hope’s master’s thesis —letter morphs surrounded by one of the following: a grid of As or Hs or a grid where the center row could create either “CAT” or “THE”.  The morphed letters were twice as likely to appear than the pure letters.  Participants were asked to judge whether the target letter was more “H”-like or more “A”-like.
+
+
+
+Column Names:
+
+"sub", Subject number
+"trial", Overall trial number
+"block", Block number
+“trialpblock", Trial number within the block
+"file", Name of the file for the stimulus presented for that trial
+"frame", Labels of the frame (“A”,”H”,”CAT”,”THE”)
+"pixels", Five levels of morphed letters (1-A,2,3,4,5-H)
+"response", 1 if participant judged the trial as an H, 0 if as an A
+"choice", Label of participant response (A or H)
+"rt", participant reaction times
+"toofast", 1 if subject responded too quickly on a trial, 0 otherwise
+"toofastN”, count of times subject responded too quickly
+
+Subject Files Removed from Analysis:
+
+14	Empty Data File; Experimenter error
+16	Withdrew Consent by responding too quickly on too many trials
+45	Data Recording Error
+52	Withdrew Consent by responding too quickly on too many trials
+73	Data Recording Error
+95	Withdrew Consent by responding too quickly on too many trials
+98	Withdrew Consent by responding too quickly on too many trials
